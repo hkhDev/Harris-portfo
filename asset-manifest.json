@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Harris-portfo/static/css/main.e723b9ec.css",
+    "main.css": "/Harris-portfo/static/css/main.90373cd6.css",
     "main.js": "/Harris-portfo/static/js/main.20a30532.js",
     "index.html": "/Harris-portfo/index.html",
-    "main.e723b9ec.css.map": "/Harris-portfo/static/css/main.e723b9ec.css.map",
+    "main.90373cd6.css.map": "/Harris-portfo/static/css/main.90373cd6.css.map",
     "main.20a30532.js.map": "/Harris-portfo/static/js/main.20a30532.js.map"
   },
   "entrypoints": [
-    "static/css/main.e723b9ec.css",
+    "static/css/main.90373cd6.css",
     "static/js/main.20a30532.js"
   ]
 }
